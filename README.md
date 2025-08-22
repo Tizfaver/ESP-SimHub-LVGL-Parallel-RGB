@@ -21,6 +21,7 @@ As with the original project, the primary logic will be found in the SHCustomPro
 You will need to download this repo, open VS Code (you obviously need PlatformIO extension installed) and open the project with PlatformIO, from the PIO HOME.
 When opened, it will automatically install the libreries. Once the libreries are done installing YOU MUST move the **lv_conf.h** file from the root of the project to the folder: **.pio\libdeps\esp32**.
 So now you will have the project looking like that:
+
 <img width="274" height="475" alt="image" src="https://github.com/user-attachments/assets/8cc73b08-09d3-4838-a9e6-cd7b9f845819" />
 
 Try and compile and it will compile:
